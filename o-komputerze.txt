@@ -1,0 +1,1 @@
+Linux hanna-VirtualBox 5.15.0-50-generic #56-Ubuntu SMP Tue Sep 20 13:23:26 UTC 2022 x86_64 x86_64 x86_64 GNU/Linu
