@@ -1,0 +1,51 @@
+Linux hanna-VirtualBox 5.15.0-50-generic #56-Ubuntu SMP Tue Sep 20 13:23:26 UTC 2022 x86_64 x86_64 x86_64 GNU/Linu
+MemTotal:        2023456 kB
+MemFree:          172476 kB
+MemAvailable:    1161640 kB
+Buffers:           47952 kB
+Cached:           997132 kB
+SwapCached:         7268 kB
+Active:           669480 kB
+Inactive:         818824 kB
+Active(anon):     105176 kB
+Inactive(anon):   355020 kB
+Active(file):     564304 kB
+Inactive(file):   463804 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       2744316 kB
+SwapFree:        2641884 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        440600 kB
+Mapped:           164892 kB
+Shmem:             16976 kB
+KReclaimable:     148820 kB
+Slab:             223468 kB
+SReclaimable:     148820 kB
+SUnreclaim:        74648 kB
+KernelStack:        6524 kB
+PageTables:        14128 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     3756044 kB
+Committed_AS:    3427560 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       38456 kB
+VmallocChunk:          0 kB
+Percpu:              984 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      174016 kB
+DirectMap2M:     1923072 kB
